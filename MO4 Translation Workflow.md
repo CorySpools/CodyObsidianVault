@@ -8,6 +8,7 @@
    ![](Pasted%20image%2020230815204402.png)
    ![](Pasted%20image%2020230815204502.png)
 3. CSV files are uploaded into Google Sheets, where they are much easier to edit.
+   
    ![](Pasted%20image%2020230815204739.png)
    
 4. Translation members will use Google Sheets to log their translations. A separate column will be added for the translated text. Adjustments can be made if someone wants to use a different editor. The important thing is the structure of the file (columns, rows, text encoding).
