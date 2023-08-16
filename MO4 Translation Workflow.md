@@ -2,8 +2,6 @@
 
 1. On a Windows computer, MO4 rvdata2 files are converted into YAML files using ruby scripts.
    ![](Pasted%20image%2020230815203755.png)
-  |
- V
 ![](Pasted%20image%2020230815203812.png)
 2. YAML files are converted into CSV (Comma-Separated Value) files.
    
