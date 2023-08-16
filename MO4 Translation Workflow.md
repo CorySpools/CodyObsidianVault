@@ -4,6 +4,7 @@
    ![](Pasted%20image%2020230815203755.png)
 ![](Pasted%20image%2020230815203812.png)
 2. YAML files are converted into CSV (Comma-Separated Value) files.
+   
    ![](Pasted%20image%2020230815204402.png)
    ![](Pasted%20image%2020230815204502.png)
 3. CSV files are uploaded into Google Sheets, where they are much easier to edit.
